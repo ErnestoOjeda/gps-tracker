@@ -8,11 +8,11 @@ The Wander v1.1 prototype is an adaptation of the Particle LTE line of industria
 
 #### Front
 
-![alt text](https://github.com/wander-inc/wander-hardware/blob/master/images/wander-v1.1%20front%20numbered.png)
+![alt text](https://github.com/ErnestoOjeda/gps-tracker/blob/master/images/wander-v1.1%20front%20numbered.png)
 
 #### Back
 
-![alt text](https://github.com/wander-inc/wander-hardware/blob/master/images/wander-v1.1%20back%20numbered.png)
+![alt text](https://github.com/ErnestoOjeda/gps-tracker/blob/master/images/wander-v1.1%20back%20numbered.png)
 
 
 | ID 					    | Description                                      |
